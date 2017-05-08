@@ -1,0 +1,25 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "Express Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejiUlises/express-tutorial.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Ulises Mejía",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejiUlises/express-tutorial/issues"
+  },
+  "homepage": "https://github.com/mejiUlises/express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
